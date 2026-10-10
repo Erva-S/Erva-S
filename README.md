@@ -9,8 +9,7 @@
 
 ---
 
-### currently
-- learning: python, web development & c++  
+### currently  
 - exploring: cybersecurity, ctf challenges & digital forensics  
 - building: projects that turn little ideas into something real  
 - growing: one bug, one commit, one lesson at a time  
