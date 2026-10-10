@@ -1,34 +1,56 @@
-# hey, i'm erva. 𐙚
+# ୨୧ ˚₊‧ hey, i'm erva
 
-*building things, breaking things (ethically), and figuring out how they work.*
+<p align="center">
+  <i>「 a little curiosity, a little creativity, a lot of learning 」</i>
+</p>
 
-CSE student with a growing interest in **software development, cybersecurity, and the little details that make a project feel right.**
+<p align="center">
+  computer science student · aspiring developer · curious mind
+</p>
 
-Currently learning, experimenting, and turning ideas into things that actually work.
+<p align="center">
+  ♡ ─────────────── ♡
+</p>
 
-### `what i'm up to`
+### 𐙚 about me
 
-- ⌘ &nbsp; Building with **HTML, CSS, JavaScript, and Python**
-- ⌕ &nbsp; Exploring **cybersecurity, CTFs, and digital forensics**
-- ⌘ &nbsp; Strengthening my programming fundamentals, one project at a time
-- ⌕ &nbsp; Experimenting with ideas that sit somewhere between logic and creativity
+hi, welcome to my little corner of github.
 
-### `the toolbox`
+i'm a cse student who loves exploring the intersection of **code, creativity, and cybersecurity**. currently learning, building things, making mistakes, and figuring it all out one project at a time.
 
-`C++` &nbsp; `Python` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+- 🎀 learning web development & python
+- 🗝️ exploring cybersecurity, ctf challenges & digital forensics
+- ☁️ building projects and collecting new ideas
+- 🕯️ forever curious about how things work behind the scenes
 
-*Currently learning: more about the web, the systems behind it, and how to secure them.*
+### ୨୧ currently in my tabs
 
-### `a few things about me`
+**learning**　　web development · python · c++
 
-- I like understanding how things work, not just getting them to work.
-- I enjoy building projects that solve actual problems.
-- Still a work in progress — both the code and the coder.
+**exploring**　　cybersecurity · ethical hacking · ctf
 
-### `elsewhere on the internet`
+**building**　　little ideas into real projects
 
-Pinterest · [@evv_07](https://pinterest.com/evv_07)
+### ˚₊‧ my little toolbox
 
----
+<p align="center">
+  <code>C++</code>　<code>Python</code>　<code>HTML</code>　<code>CSS</code>　<code>JavaScript</code>
+</p>
 
-<sub>less perfection, more experimentation. always learning.</sub>
+### ♡ find me elsewhere
+
+<p align="center">
+  pinterest ୨୧ <a href="https://pinterest.com/evv_07">@evv_07</a>
+</p>
+
+<p align="center">
+  ♡ ─────────────── ♡
+</p>
+
+<p align="center">
+  <i>“romanticizing the process, one commit at a time.”</i>
+</p>
+
+<p align="center">
+  𐙚 thanks for visiting my little corner of the internet.
+</p>
